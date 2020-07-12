@@ -14,7 +14,7 @@ except getopt.GetoptError as e:
 
 for opt, arg in opts:
     if opt in ("-h", "--help"):
-        print( 'lan_creator.py -l <lang>' )
+        print( 'lang_creator.py -l|--lang <lang>' )
         sys.exit( 2 )
     elif opt in ("-l", "--lang"):
         lang = arg
