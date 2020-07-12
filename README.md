@@ -7,7 +7,7 @@ The generated .lang files should be placed into ~/.minecraft/resources/betterque
 
 The DefaultQuests.json from ~/.minecraft/config/betterquesting sould be replaced with the generated DefaultQuests.json_new.
 
-An english and hungarian outut is located here:
+An english and hungarian output is located here:
 https://github.com/JuliusTZM/SeaBlock_localisation
 
 The translation is on going, if you feel like you can join ...
