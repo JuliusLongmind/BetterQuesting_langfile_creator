@@ -1,2 +1,2 @@
-# BetterQuesting_langfile_creator
-Tools for BetterQuesting
+# BetterQuesting langfile creator for Sea Block Rustic Water
+Little tool to localize BetterQuesting quest book
