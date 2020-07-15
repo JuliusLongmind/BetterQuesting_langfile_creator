@@ -1,4 +1,4 @@
-# BetterQuesting langfile creator for Sea Block Rustic Water
+# BetterQuesting langfile creator for Seablock Rustic Water
 Little tool to localize BetterQuesting quest book
 
 By calling ./lang_creator.py -l <lang> you can generate an en_US.lang file, and an empty .lang file for locaizing quests to your language and modify the DefaultQuests.json from ~/.minecraft/config/betterquesting dir.
